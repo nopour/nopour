@@ -21,6 +21,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 
+  <a href="https://www.researchgate.net/profile/Reza-Nopour" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png" width="52" height="40" alt="linkedin logo"  />
+  </a>
+
 </div>
 
 ##
