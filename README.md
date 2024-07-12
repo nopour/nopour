@@ -6,7 +6,7 @@
 
 - 👋 Hi there, I'm Reza Nopour!
 - 🌱 I’m currently studying mechanical engineering and always eager to expand my knowledge.
-- 💬 Ask me about anything, whether it's your engineering problems, tech, or just to have a friendly chat! :smile:
+- 💬 Ask me about anything, whether it's your engineering problem, tech, or just to have a friendly chat! :smile:
 - 📫 You can reach me at rezanopour@gmail.com.
 - ⚡ Fun fact: Fun?!
 
