@@ -44,6 +44,8 @@
   <img width="8" />
   <img src="https://cdn-icons-png.flaticon.com/512/6461/6461928.png" height="40" alt="NN logo"  />
   <img width="8" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
+  <img width="8" />
 </div>
 
 ###
