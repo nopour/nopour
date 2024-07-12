@@ -22,7 +22,7 @@
   </a>
 
   <a href="https://www.researchgate.net/profile/Reza-Nopour" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png" width="52" height="52" alt="RG logo"  />
   </a>
 
 </div>
