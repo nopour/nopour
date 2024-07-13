@@ -51,3 +51,4 @@
 ###
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nopour\&layout=donut)](https://github.com/nopour)
+[![](https://visitcount.itsvg.in/api?id=nopour&icon=6&color=3)](https://github.com/nopour)
